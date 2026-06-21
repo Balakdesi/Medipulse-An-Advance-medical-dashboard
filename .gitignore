@@ -1,0 +1,9 @@
+# Ignore Environment Secrets
+.env
+
+# Ignore Patient Vault Records
+vault_records/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
